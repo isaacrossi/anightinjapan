@@ -18,11 +18,11 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: post    
+    layout: post
 email: isaacjohnrossi@gmail.com
 description: A blog about Japan
-baseurl:
-url:   
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
